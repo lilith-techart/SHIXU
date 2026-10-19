@@ -1,0 +1,135 @@
+{
+  "description": "Historical coursework engine images; source+WebP hashes verified; no new UE capture",
+  "photos": [
+    {
+      "src": "assets/legacy/dongya-hero.webp",
+      "original": "东亚重工.jpg",
+      "group": "东亚重工",
+      "source_sha256": "d2cdab13b23f23f5da8d9d74ec8e3947bb9816a9b684deef03f2e073b9a383e5",
+      "preview_sha256": "bf4325a986449358746fb2fa3c78aaecaf7d64ee03b45495eeb2b13ef9d21d2c",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "悬浮工业平台与远景吊机",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/dongya-2.webp",
+      "original": "东亚重工2.jpg",
+      "group": "东亚重工",
+      "source_sha256": "e57c3315a60b300181ac7d329ce603ed9fbebab7c06022aecdb2adc4b40b411d",
+      "preview_sha256": "b5b06a351647eaff79904ef4462949f585e254b1c63d2cfbcc8b21f3d2a3d9f7",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "双平台、横桥与远景球体",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/dongya-3.webp",
+      "original": "东亚重工3.jpg",
+      "group": "东亚重工",
+      "source_sha256": "7e43c9f6a9ded24413e038cea493e5fd48df7a1f1b469563cb222253dc6912f8",
+      "preview_sha256": "5fd0653dd1a3d03ded9163d2941ac99a542aded82a23bc6309b9dd5ea910fe6e",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "近景遮挡与平台尺度",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/dongya-4.webp",
+      "original": "东亚重工3.png",
+      "group": "东亚重工",
+      "source_sha256": "0bfadd7590858a1415cd31b1129ccc93679e030394cd47c4939f699067dcc727",
+      "preview_sha256": "79ce43d6f0eab1542c611f1243fced253e204c41f54dae0fba3b4dc563c4b0df",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "桥梁、吊机与浮岩层次",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/anding-hero.webp",
+      "original": "安定区.jpg",
+      "group": "安定区",
+      "source_sha256": "28b572e66625a8187fe18756f1399e88ec31f47c39534b9126b10b0d9bc8a98c",
+      "preview_sha256": "922cd9310b01da335d9cf8ffa96269478d5a9732f9fadf384c2e622941e39cf0",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "石质柱廊、侧窗与亮出口",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/anding-2.webp",
+      "original": "安定区2.jpg",
+      "group": "安定区",
+      "source_sha256": "67cce8aa5ce72f199ee916d707c07072c32d93f7b15ab9322cee855f1e421b7a",
+      "preview_sha256": "a8da2038a494e2e530bf23dbfbb716c9325d4715fe99d12da72f2ddb3e4824e1",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "高大支撑与室外亮部",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/anding-3.webp",
+      "original": "安定区3.png",
+      "group": "安定区",
+      "source_sha256": "9aa5319dddf7204bf5f9ed29c7357bc3289f0f95aeccb596b70edaffa0abf898",
+      "preview_sha256": "35e8b4126c0be257526ef8c463bc63f0b6f66bbdd217bf05bff2d257c75debd3",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "暗部柱廊通向亮出口",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/anding-4.webp",
+      "original": "安定区4.jpg",
+      "group": "安定区",
+      "source_sha256": "0365be24bd6db3988c33789bb0ac282cd40ae874c912e18d7bb65d8386c965a2",
+      "preview_sha256": "aef48401e9a5ec727b2c24f8e5118623c1eb7dec69e6e3ce22c55677c6a02c16",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "走廊出口与远处人物尺度",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/duankou-hero.webp",
+      "original": "端口区.jpg",
+      "group": "端口区",
+      "source_sha256": "cfa3cfb488739deb372f0c0c6ce851a345859f03c8ed5e07d734e41e31ed4905",
+      "preview_sha256": "06606300bd833c66c07273938abdbd7cfea72b6246bad4c795358b6de919dbaf",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "机械密集空间的倾斜构图",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/duankou-2.webp",
+      "original": "端口区.png",
+      "group": "端口区",
+      "source_sha256": "31d0694395628c51f17ccc4c818be5300abbb666af41de4a9336ea3e31094e30",
+      "preview_sha256": "ad0b0e7c37924ddbc3e3eb00115b4d4c92ccc3b1cc71ad5b408e53e89d031bc6",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "球体轮廓观察（沿用原文件归档分组）",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/duankou-3.webp",
+      "original": "端口区2.jpg",
+      "group": "端口区",
+      "source_sha256": "f2fed367110802578539d8174a4b1498637b7b39d40a08aec9e266a13db02c89",
+      "preview_sha256": "05a3092f27df088ac1831204578b66f47954c52df2a549cf12031d9227b3997c",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "机械结构与高亮表面",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/duankou-4.webp",
+      "original": "端口区3.jpg",
+      "group": "端口区",
+      "source_sha256": "e12c7132ac4e094852a44c41a00cb5b448cbbe051f10d16ae8c91cc6964a3b42",
+      "preview_sha256": "83f133df4203304415453f9f55181cf07493e7c7d3dbb5f67ae4d396998d272c",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "灰盒楼梯与编辑器角色预览",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    },
+    {
+      "src": "assets/legacy/duankou-5.webp",
+      "original": "端口区4.jpg",
+      "group": "端口区",
+      "source_sha256": "eff469968d1f308d06064e254a94d7f4b4b0778d376a757cbe15b1b3fa734f48",
+      "preview_sha256": "be3959ca5df35b224849c3180d8862cbe204d3d4e6010997d35ce5c17e295109",
+      "stage": "LEGACY_EDITOR_WIP",
+      "description": "灰盒结构与编辑器角色预览",
+      "rights": "Owner confirmed historical screenshot display; source assets not distributed"
+    }
+  ]
+}
