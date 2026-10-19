@@ -11,7 +11,7 @@
 
 庞大的工业构筑物悬于失重空间，桥梁连向未知的塔架；石质遗迹以重复的柱列、暗部和出口亮光引导观看。项目以这些空间为已有美术基础，继续探索**异常尺度、空间叙事和第一人称可探索性**。
 
-[展示站源码与本地入口](site/index.html) · [恢复状态](docs/RECOVERY_STATUS.md) · [贡献与许可](docs/CONTRIBUTORS.md)
+[在线展示](https://lilith-techart.github.io/SHIXU/) · [展示站源码](site/index.html) · [恢复状态](docs/RECOVERY_STATUS.md) · [贡献与许可](docs/CONTRIBUTORS.md)
 
 ### 东亚重工 / Suspended Industry
 
