@@ -47,12 +47,12 @@
 | 归档定位 | P0 静态审计完成 | P0 审计与哈希记录（内部） |
 | 压缩包 CRC | PASS，退出码0；SHA256与P0一致 | 完整回执已记录 |
 | UE 版本 | 已安装匹配5.5.4 / CL40574608 | 实际Build.version与完成的Epic清单已核验 |
-| 文件隔离恢复 | Original58.58GB / Working37.96GB；Content保留 | 23,036归档文件与关键hash已核验 |
+| 文件隔离恢复 | Original58.58GB / Working初始37.96GB；Content保留 | 23,036归档文件与关键hash已核验 |
 | `/Game/Main` 编辑器加载 | 已实证打开；运行健康仍 PARTIAL | 7,436 个已加载 Actor；504 个 MapCheck 错误，尚未验证可玩路线 |
-| 安定区 R1 第一人称路线 | 未通过运行验收；静态射线/胶囊查询不等于实走 | 连续原始录像与至少3次路线测试 |
+| 安定区 R1 第一人称路线 | PIE 流送生成断言退出，尚未开始路线测试 | 连续原始录像与至少3次路线测试 |
 | 灯光与雾视觉修复 | 尚未形成新版本对照 | 同机位 Before/After 与参数 diff |
 | 成像实验 | 独立候选、有效PPV与重复基线核验中；没有已验收After | A/A/B/恢复A实测 |
-| 不兼容包 | 111包现场包头复核，保持原样 | 不能以零引用删除；语义依赖仍有未知 |
+| 不兼容包 | 旧111包及新增2个地图包（本轮113）保持原样 | 不能以零引用删除；语义依赖仍有未知 |
 
 上述状态依据恢复回执与本轮独立静态复核更新；504条消息属于同一种World Partition引用错误，不等于504处坏几何。未完成步骤不提前宣称 PASS。
 
@@ -103,3 +103,9 @@
 <small>Project archive founded on UE5 historical records. Published material is labeled by source and production stage. The current rebuild status is verified only by independently recorded evidence.</small>
 
 Source/project distribution is not currently provided. 本次未选择开源许可证；截图展示授权不等于第三方源资产再分发授权。
+
+### 004 现场进展（2026-10-21）
+
+独立候选使用 UE5.5.4 打开 Main，采集 A1/A2/G0/F0/A3 各30张真实截图（1920×1080、FOV90）。这是临时运行开关实验，尚非合格的单参数资产返修：A/A 有漂移、世界时间并未完全一致，故没有保存视觉参数。新实验媒体暂留本地审阅，不替代上方历史画廊。
+
+实际 PIE 在 World Partition 流送生成阶段触发 `RuntimeStreamingData.IsEmpty()` 断言并退出；R1 未开始，无路线通过或连续第一人称录像。MapCheck 两批各504条标签一致，不能称为1008个新增问题。完整包发现日志拒绝113个独立包（旧111包＋2个地图包）；来源版本和完整语义依赖仍未知，全部保留。
