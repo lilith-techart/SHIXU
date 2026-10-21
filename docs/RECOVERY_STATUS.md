@@ -11,3 +11,13 @@
 - No scene, material, lighting or collision repair in this phase. No playable route, new visual Before/After or GPU benchmark yet.
 
 The size reduction is omission of preserved caches/history, not deletion of project assets. File restoration does not by itself prove runtime recovery.
+
+
+## OVERNIGHT_004 independent evidence refresh
+
+- Original/Working: six key file hashes each match the earlier frozen baseline. This does not claim a full new hash of every original file.
+- 504 complete MapCheck messages independently reconciled; one error template, not proof of 504 damaged meshes. Twenty representative object samples retained privately; exact referring property chains, Data Layers and runtime cells remain unresolved.
+- 111 incompatible package headers read again. Assets retained; absence of discovered referencers is not deletion permission.
+- 14,289 asset/config/project metadata entries are a subset of the 23,036 archived files; rebuildable caches and saved recovery material explain different inventory scopes.
+- Film Grain / Scene Fringe: controlled experiments pending actual view and repeated-baseline verification. No accepted After or visual improvement claim.
+- First-person R1: requires continuous real controller playback; editor flycam, screenshots and static sweeps are not a pass.
